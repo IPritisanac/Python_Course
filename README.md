@@ -9,6 +9,7 @@ This repository contains Jupyter Notebooks and resources for learning Python bas
   - Variables, data types, control flow, and functions.
 - **Day 2**: File I/O and Data Analysis
   - Reading and writing files.
+  - NumPy arrays and manipulations.
   - Data analysis with `pandas` and visualization with `matplotlib`.
 
 ## Prerequisites
